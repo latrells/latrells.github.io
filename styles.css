@@ -1,0 +1,21 @@
+body {
+    background:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.assignment{
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background-color: antiquewhite;
+}
+
+.assignment{
+    width:200px;
+    padding:10px;
+}
+
+h1 {
+    color: bisque;
+    text-align: center;
+}

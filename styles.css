@@ -1,5 +1,5 @@
 body {
-    background:blue;
+    background:	#98FB98;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -16,6 +16,14 @@ body {
 }
 
 h1 {
-    color: bisque;
+    color:#B22222;
     text-align: center;
+}
+
+a  {
+    text-decoration: none;
+    color:	#DDA0DD;
+}
+a:hover{
+    color:salmon;
 }
